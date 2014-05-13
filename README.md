@@ -6,13 +6,13 @@ Note: This does no dependency management. It just downloads something and
 
 #Usage 
 
-sll.py view
+```sll.py view```
 
 Shows all items from the source file
 
 <hr>
 
-sll.py install <language> <library or framework name> [<version>]
+```sll.py install <language> <library or framework name> [<version>]```
 
 Installs the given library, script, file or framework to the current directory
 
@@ -22,7 +22,7 @@ Installs the given library, script, file or framework to the current directory
 
 <hr>
 
-sll.py add <language> <library or framework name> <version> <url> [latest]
+```sll.py add <language> <library or framework name> <version> <url> [latest]```
 
 Adds an item to the source file
 
@@ -34,7 +34,7 @@ Adds an item to the source file
 
 <hr>
 
-sll.py remove <language> [<library or framework name> [<version>]]]
+```sll.py remove <language> [<library or framework name> [<version>]]]```
 
 Removes a language, library or selected version of a library.
 
