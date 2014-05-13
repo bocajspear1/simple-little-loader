@@ -2,7 +2,7 @@ A Python script to make repetitive downloading of frameworks, scripts, files and
 
 Essentially, this allows you to make a personal library of your most used files and easily install them later
 
-Note: This does no dependency management. It just downloads something and 
+Note: This does no dependency management. It just downloads something and places it in the current directory. 
 
 #Usage 
 
