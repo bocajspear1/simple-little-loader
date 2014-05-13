@@ -1,0 +1,16 @@
+{
+    "js": {
+        "jquery-ui": {
+            "1.10.4": "https://jqueryui.com/resources/download/jquery-ui-1.10.4.zip", 
+            "latest": "1.10.4"
+        }, 
+        "modernizr": {
+            "latest": "http://modernizr.com/downloads/modernizr-latest.js"
+        }
+    }, 
+    "php": {
+        "codeignitor": {
+            "latest": "http://ellislab.com/codeigniter/download"
+        }
+    }
+}
